@@ -1,0 +1,32 @@
+h1{
+    color:#adc796;
+    text-align: center;
+}
+body{
+    background-color:  #201e1e;
+    background-image: url(https://i.pinimg.com/originals/94/ba/53/94ba53dc8a376c9727742a4fd56cf509.gif);
+}
+section{
+    display: flex;
+    flex-direction: row;
+    width: 90vw;
+    margin: auto;
+}
+.flex{
+    flex-grow: 1;
+}
+h3{
+    color: #d6e6c9;
+    text-align: center;
+}
+a{
+    color:   #e9ffd7;
+}
+form{
+    color: white;
+    width: 33vh;
+    margin: auto;
+}
+li{
+    color: white;
+}
